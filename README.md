@@ -129,18 +129,15 @@ The output video will include:
 - Unique IDs for tracked objects.
 
 
-## Preview
-
-The output video will display the detection and tracking results for each frame.
-
-https://stream.nyu.edu/media/Football_match_tracking_part2+-final/1_h3qvrzu9
 
 ## Preview
 
-The output video will display the detection and tracking results for each frame.
 
-[![Video Preview](https://via.placeholder.com/800x450.png?text=Video+Preview)](https://stream.nyu.edu/media/Football_match_tracking_part2+-final/1_h3qvrzu9)
----
+The output video will display the detection and tracking results for each frame.
+# Faster-RCNN
+![Tracking Preview](output/Football_match_part1-final.gif)
+# Deep SORT
+![Tracking Preview](output/Football_match_tracking_part2 -final.gif)
 
 ## References
 
