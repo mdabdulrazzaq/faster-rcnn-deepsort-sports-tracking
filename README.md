@@ -138,7 +138,6 @@ The output video will display the detection and tracking results for each frame.
 ![Tracking Preview](output/Football_match_part1-final.gif)
 # Deep SORT
 ![Tracking Preview](output/Football_match_tracking_part2 -final.gif)
-
 ## References
 
 1. **Faster-RCNN**: Ren, Shaoqing, et al. "Faster R-CNN: Towards real-time object detection with region proposal networks."
